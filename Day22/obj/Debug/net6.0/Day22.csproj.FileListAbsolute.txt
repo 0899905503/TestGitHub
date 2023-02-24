@@ -1,0 +1,15 @@
+D:\C#\Day22\Day22\bin\Debug\net6.0\Day22.exe
+D:\C#\Day22\Day22\bin\Debug\net6.0\Day22.deps.json
+D:\C#\Day22\Day22\bin\Debug\net6.0\Day22.runtimeconfig.json
+D:\C#\Day22\Day22\bin\Debug\net6.0\Day22.dll
+D:\C#\Day22\Day22\bin\Debug\net6.0\Day22.pdb
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.csproj.AssemblyReference.cache
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.AssemblyInfoInputs.cache
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.AssemblyInfo.cs
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.csproj.CoreCompileInputs.cache
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.dll
+D:\C#\Day22\Day22\obj\Debug\net6.0\refint\Day22.dll
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.pdb
+D:\C#\Day22\Day22\obj\Debug\net6.0\Day22.genruntimeconfig.cache
+D:\C#\Day22\Day22\obj\Debug\net6.0\ref\Day22.dll
